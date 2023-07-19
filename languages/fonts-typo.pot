@@ -1,0 +1,189 @@
+# Copyright (C) 2023 Fonts Typo | Fonts Typography
+# This file is distributed under the same license as the Fonts Typo | Fonts Typography package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fonts Typo | Fonts Typography 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fonts-typo\n"
+"POT-Creation-Date: 2023-07-12 06:18:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/customizer/fonts-typo-customizer.php:39
+msgid "Use Custom Typography"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:43
+msgid "Choose \"Yes\" If You Want To Set Custom Fonts"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:45
+#: includes/customizer/fonts-typo-customizer.php:421
+msgid "Yes"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:46
+#: includes/customizer/fonts-typo-customizer.php:422
+msgid "No"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:60
+msgid "Font for H1 Tag"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:64
+#: includes/customizer/fonts-typo-customizer.php:124
+#: includes/customizer/fonts-typo-customizer.php:182
+#: includes/customizer/fonts-typo-customizer.php:240
+#: includes/customizer/fonts-typo-customizer.php:298
+#: includes/customizer/fonts-typo-customizer.php:356
+#: includes/customizer/fonts-typo-customizer.php:438
+msgid "Choose Your Font Family"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:78
+msgid "Font Style for h1"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:82
+#: includes/customizer/fonts-typo-customizer.php:141
+#: includes/customizer/fonts-typo-customizer.php:199
+#: includes/customizer/fonts-typo-customizer.php:257
+#: includes/customizer/fonts-typo-customizer.php:315
+#: includes/customizer/fonts-typo-customizer.php:373
+msgid "Choose Your Font Style"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:85
+#: includes/customizer/fonts-typo-customizer.php:144
+#: includes/customizer/fonts-typo-customizer.php:202
+#: includes/customizer/fonts-typo-customizer.php:260
+#: includes/customizer/fonts-typo-customizer.php:318
+#: includes/customizer/fonts-typo-customizer.php:376
+msgid "Capitalize"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:86
+#: includes/customizer/fonts-typo-customizer.php:145
+#: includes/customizer/fonts-typo-customizer.php:203
+#: includes/customizer/fonts-typo-customizer.php:261
+#: includes/customizer/fonts-typo-customizer.php:319
+#: includes/customizer/fonts-typo-customizer.php:377
+msgid "Uppercase"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:87
+#: includes/customizer/fonts-typo-customizer.php:146
+#: includes/customizer/fonts-typo-customizer.php:204
+#: includes/customizer/fonts-typo-customizer.php:262
+#: includes/customizer/fonts-typo-customizer.php:320
+#: includes/customizer/fonts-typo-customizer.php:378
+msgid "Lowercase"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:99
+msgid "Font Size for h1"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:102
+#: includes/customizer/fonts-typo-customizer.php:161
+#: includes/customizer/fonts-typo-customizer.php:219
+#: includes/customizer/fonts-typo-customizer.php:277
+#: includes/customizer/fonts-typo-customizer.php:335
+#: includes/customizer/fonts-typo-customizer.php:393
+msgid "Put Your Font Size In Pixel"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:120
+msgid "Font for H2 Tag"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:137
+msgid "Font Style for H2"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:158
+msgid "Font Size for h2"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:178
+msgid "Font for H3 Tag"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:195
+msgid "Font Style for H3"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:216
+msgid "Font Size for h3"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:236
+msgid "Font for H4 Tag"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:253
+msgid "Font Style for H4"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:274
+msgid "Font Size for h4"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:294
+msgid "Font for H5 Tag"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:311
+msgid "Font Style for H5"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:332
+msgid "Font Size for h5"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:352
+msgid "Font for Paragraph"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:369
+msgid "Font Style for Paragraph"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:390
+msgid "Font Size for Paragraph"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:415
+msgid "Use For Whole site"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:419
+msgid "Choose \"Yes\" If You Want To Set Custom Fonts for whole site"
+msgstr ""
+
+#: includes/customizer/fonts-typo-customizer.php:434
+msgid "Font for Whole Site"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Fonts Typo | Fonts Typography"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://peacefulqode.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugins provide 1000+ Google fonts style for your theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PeacefulQode"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://author-fonts_typo.com/"
+msgstr ""

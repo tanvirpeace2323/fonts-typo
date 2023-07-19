@@ -1,0 +1,87 @@
+#adminmenuwrap ul .toplevel_page_fonts_typo_tab img
+{
+	height: 20px;
+}
+
+
+.font-typo-main-wrapper img
+{
+	height: 350px;
+}
+
+.font-typo-main-wrapper .profileheader.font-typo-panel-mask {
+  overflow: hidden;
+}
+
+.border-default-light {
+  border: solid 1px #e6e6e6;
+}
+.font-typo-panel {
+  margin-bottom: 15px;
+  background-color: #fff;
+  border-radius: 4px;
+}
+.profileheader .coverprofile {
+  height: 158px;
+  margin-bottom: -75px;
+  background: #fd5a1e;
+}
+
+
+.text-center,
+.strike-center {
+  text-align: center !important;
+}
+.margbot-none {
+  margin-bottom: 0 !important;
+}
+.avatar-150 {
+  width: 150px;
+  height: 150px;
+}
+
+.photo,
+.modal-header .close,
+.modal-body .close,
+.preview-form .close,
+.timeline > li:before,
+.circle-icon,
+.numbering-circle,
+.notif.unread .notif-counter,
+.notif.read:before,
+.notification-counter {
+  border-radius: 50% !important;
+}
+
+.font-typo-panel-body {
+    padding: 15px;
+}
+
+
+.dropdown, .dropup {
+    position: relative;
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+.btn-capsule {
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+
+.margbot, .polling-result .polling-result-item {
+    margin-bottom: 15px !important;
+}
+
+.btn-primary, .introjs-donebutton, .introjs-nextbutton {
+    color: #fff;
+    background-color: #00A5AF;
+    border-color: #008d96;
+}
