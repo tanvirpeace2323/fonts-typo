@@ -327,7 +327,7 @@ function ft_core_print_css($css)
 	$str_result = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
 	$id = substr(str_shuffle(md5($str_result)),0, 5);
 
-	echo '<style id="fonts-typo-custom-style-'.$id.'">';
+	echo esc_attr('<style id="fonts-typo-custom-style-'.$id.'">');
 	foreach ( $css as $val ) {
 		if ( ! empty( $val[ 'element' ] ) ) {
 			echo  "\n" . html_entity_decode(esc_attr($val[ 'element' ])) . "{\n";
