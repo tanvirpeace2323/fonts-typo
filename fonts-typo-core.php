@@ -107,7 +107,7 @@ function ft_tab_content() {
         <div class="font-typo-panel font-typo-panel-mask profileheader border-default-light">
           <div class="coverprofile bg-cover" ></div>
           <h1 class="font-3x margtop-none inblock text-center"><b>Fonts Typography</b></h1>
-          <div class="text-center"><img alt='Fonts typo image' src='<?php echo FT_URL.'assets/img/typo_icon.png'; ?>' ></div>
+          <div class="text-center"><img alt='Fonts typo image' src='<?php echo esc_url(FT_URL.'assets/img/typo_icon.png'); ?>' ></div>
           <div class="font-typo-panel-body">
             <div class="text-center">
               <div class="dropdown inblock">
